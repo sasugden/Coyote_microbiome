@@ -9,3 +9,5 @@ This GitHub repository contains information for the manuscript 'An altered micro
 If you have questions or concerns with these files, or trouble downloading them, please contact the first author at sasugden@gmail.com or ssugden@ualberta.ca.
 
 De-multiplexed, unfiltered sequencing data has been deposited in the NCBI Short Read Archive under accession number PRJNA528764.
+
+These files were last updated on November 16, 2020.
