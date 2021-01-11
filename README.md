@@ -1,6 +1,6 @@
 # Coyote_microbiome
 
-This GitHub repository contains information for the manuscript 'An altered microbiome in urban coyotes mediates relationships between anthropogenic diet and poor health,' which has been submitted for peer review.
+This GitHub repository contains information for the manuscript 'An altered microbiome in urban coyotes mediates relationships between anthropogenic diet and poor health,' which has been published in Scientific Reports (https://doi.org/10.1038/s41598-020-78891-1).
 
 - "cy_analysis_code" provides the R code to reproduce all analyses and statistical tests.
 - "cy_figures_code" provides the R code to reproduce all figures. It requires objects produced by "analysis_code."
